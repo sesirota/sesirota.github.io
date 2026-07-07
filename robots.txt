@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sesirota.github.io/sitemap.xml
+Sitemap: https://sesirota.github.io/sesirota.github.io/sitemap.xml
